@@ -23,7 +23,7 @@
 
 ### [*]Announcent
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/s3curityby3tes/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -41,7 +41,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```https://github.com/s3curitybyt3s/PyPhisher.git```
 
 ##### Enter the directory
  - ```cd PyPhisher```
@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/s3curityby3tes/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull s3curityby3tes/pyphisher`
+ - `sudo docker run --rm -it s3curityby3tes/pyphisher`
 
 ### Support
 
@@ -127,11 +127,6 @@ options:
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
 
-#### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
-
-
 ### Requirements
 
  - `Python(3)`
@@ -163,7 +158,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/s3curityby3tes/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
@@ -210,21 +205,3 @@ If not found, php and python modoules will be installed on first run
 
 ## Credits:
 Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/jaykali/maskphish)
-
-
-### [*] Support
-####  Want to show support? Just spread the word and smash the star button
-###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
-
-## [~] Find Me on :
-
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
-
